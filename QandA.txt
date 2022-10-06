@@ -1,0 +1,5 @@
+You can use this file to store any questions and answers
+for quick input.
+*Doesn't need to be used in quiz Game
+Example:
+"Is the Earth flat?"#"False"

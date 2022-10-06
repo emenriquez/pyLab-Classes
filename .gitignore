@@ -1,0 +1,5 @@
+.DS_Store
+solution*.*
+.vscode
+__pycache__/
+.pytest_*
